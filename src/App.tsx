@@ -1,7 +1,4 @@
-import { useState } from 'react'
-
 function App() {
-  const [menuOpen, setMenuOpen] = useState(false)
 
   return (
     <div style={{ fontFamily: "'Georgia', serif", margin: 0, padding: 0, color: '#0f172a' }}>
